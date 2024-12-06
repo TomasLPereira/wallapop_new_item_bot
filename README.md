@@ -11,5 +11,5 @@ When prompted, write into the console the link(s) you wish to get notified, sepa
 
 ## Techonologies used
 - Python;
-- Selenium (for web scrapping);
+- Selenium (for web scraping);
 - Winotify (for notifications).
